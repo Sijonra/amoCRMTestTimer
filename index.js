@@ -26,7 +26,7 @@ const createTimerAnimator = (seconds) => {
       check = false;
       clearInterval(interval)
     }
-  }, 10)
+  }, 1000)
 
 };
 
